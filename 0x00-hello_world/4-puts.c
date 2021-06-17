@@ -3,6 +3,7 @@
 /**
  *  main - Entry
  *
+ * Return: always at 0
  */
 
 int main(void)
