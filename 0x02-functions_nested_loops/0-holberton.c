@@ -1,10 +1,9 @@
 #include "holberton.h"
 
 /**
+ * main - Print the word "Holberton"
  *
- * main - Prints the word "Holberton"
- *
- * return: Always 0
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -16,6 +15,6 @@ int main(void)
     {
       _putchar(p[i]);
     }
-    _putchar('\n');
-    return (0);  
+  _putchar('\n');
+  return (0);
 }
