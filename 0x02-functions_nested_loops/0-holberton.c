@@ -2,7 +2,7 @@
 
 /**
  *
- * main- prints the word "Holberton"
+ * main - Prints the word "Holberton"
  *
  * return: Always 0
  */
